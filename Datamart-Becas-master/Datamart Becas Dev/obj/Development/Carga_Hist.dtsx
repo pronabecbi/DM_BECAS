@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="10/15/2022 7:02:57 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="DESK22-026"
+  DTS:CreatorName="PRONABEC\FRANCISCO.VERA"
+  DTS:DTSID="{A8666F5A-990D-4B79-9BDE-D37811425A81}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5685.2"
+  DTS:LocaleID="10250"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionBuild="11"
+  DTS:VersionGUID="{6CBFF656-7A34-4D9D-8246-D64DBC7D3FE1}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[10.70.1.71.dm_becas.User_fvr]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{5CFDAC9C-F3E7-4077-8C14-EA80FF9052DC}"
+      DTS:ObjectName="10.70.1.71.dm_becas.User_fvr">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=10.70.1.71;Initial Catalog=dm_becas;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package1-{5CFDAC9C-F3E7-4077-8C14-EA80FF9052DC}10.70.1.71.dm_becas.User_fvr;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Carga_Hist"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Tarea Ejecutar SQL"
+      DTS:DTSID="{27DE9581-4BDE-40E3-A654-38215392C497}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Carga_Hist"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{5CFDAC9C-F3E7-4077-8C14-EA80FF9052DC}"
+          SQLTask:SqlStatementSource="INSERT INTO ods.Fact_Postulaciones_Hist&#xA;SELECT        Id_Postulacion, Id_Esquema, Id_Persona, Id_Institucion, Id_Institucion_Sede, Id_Carrera, Id_Convocatoria, Momento, Departamento_Reniec, Provincia_Reniec, Distrito_Reniec, Tipo_Pais_Postulacion, Pais_Postulacion, &#xA;                         Region_Postulacion, Provincia_Postulacion, Distrito_Postulacion, Flag_Vraem, Estado_Postulacion, Fecha_Postulacion, Fecha_Corte, Sispho_Postulacion, Estado_Validacion, Estado_Seleccion, Estado_Aceptacion, &#xA;                         Estado_Adjudicado, Estado_Beca, Condicion_Beca, Situacion_Beca, Resolucion_Beca, Fec_Resolucion_Beca, Resolucion_Beneficiario, Fecha_Resolucion_Beneficiario, Resolucion_Ret_Beca, Fec_Resolucion_Ret_Beca, &#xA;                         Id_Postulacion_Preadj,Resolucion_Nulidad_Beca,Fec_Resolucion_Nulidad_Beca,I_Becas_Otorgadas&#xA;FROM            ods.Fact_Postulaciones" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="134,42"
+          Id="Package\Carga_Hist"
+          TopLeft="120,33" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>
