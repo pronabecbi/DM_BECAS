@@ -11,8 +11,8 @@
   DTS:LocaleID="10250"
   DTS:ObjectName="Datamart_Becas"
   DTS:PackageType="5"
-  DTS:VersionBuild="546"
-  DTS:VersionGUID="{0BB8C175-4634-400C-B01C-C630CA100F0F}">
+  DTS:VersionBuild="547"
+  DTS:VersionGUID="{9F16833B-7784-4744-A042-01355B2BFF1A}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADtc9YGxLOeIXmyWnt+vQIQGVPxfmwlwBYE+sX8HvoajAAAAAAOgAAAAAIAACAAAADKih1obR72dMGtbjh/qe7/xKDCu8A6a0pbf/B+43SWKCAAAAAZ8/co6JYf23jT9nOXi+qI/1TQLGR+bsCeYJ/afhEn1kAAAACiR9ntwCwkkLxwtadc0MimxiviCdAwMid+nQm8h2RQQfB0la0ATwRY5B/d7Uc19nwmZAFue0vksE3HtSTSGmeA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAIPBZfm2w56njPhuqUIdUVXb6ljcThaY0hm68xI9L7qgAAAAAOgAAAAAIAACAAAAAo0l70pnCZl1HZ3ptY1X6YriTJHh1yiyDW67Yes3+trCAAAABlTouhp72YbvZWk4aZIDXv1HCkCRtvt47Im0Vj0gMikUAAAACBi6XPERzdNKxtt+7CAQlEHrqDfTC0RfyOpRwi6szmH3ntN1+rL/ROycuemxmYlVUQXPKtZGyILVFsk4PAgaUt</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACGlc303WMgJJ9ZtSbo1DQhbS/OqhWzqS7Rfdy6USWghAAAAAAOgAAAAAIAACAAAACsDWXd6GaGnBSFvsxxSFhemK5N46l0Qu4SeYu4S+hCBiAAAAB6/k35nIbsUc4mjZizRpRJrTY8VhC9Ja0Pikil9XVMm0AAAADFlRIF7+e4bRSmk7DjTLqBgxcUTGJDIDN1e+SqLY8nxV40hVtgt+9pH0s6/hcJuedbtG6K7MC1wQubeiDOcp4t</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADu2nqWZHCQ9f/H/71+aYWudrLFNPivqPlzPJ9+C2kcKQAAAAAOgAAAAAIAACAAAADNskujf2ooThuFljIAuWfbsuZANzH+7Ai60l73cReGxiAAAAAPeiT5b9VzTrFNO6rBNQ11F5sOAZq5wZYrbtwKwAT+HEAAAAA2blwjx6pMBjDldkb0G1oQ+ONPJJaY32wQYtD5FuMc6XassZVbRj0klAP1Ikb2X+kw1HQf4Wi1ykOTGA3QNLj3</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADI9BowI163ojnMPWno9gXqt9fXhcqimzqS/pYnF/lu0gAAAAAOgAAAAAIAACAAAACWALdezyrwYJMv+VqzuwLzEB7QHr2iiH+JcQiH6+xxFCAAAADLt03aFnGihuHhQStG2FIHACpv/Aj2lmgtoYGPu46LBUAAAACooppyjHuuf+xk9ah40CnSjDoFAf1aaG1Tf8t9OMMie3zAy2wR1BwtO3DkvQSPdW5os9ggIn/jxZHBhbkxWVUM</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADaTaZeINtOgN39aXpkt8U81O3s3Mn7NXZloDVhPx0CMwAAAAAOgAAAAAIAACAAAAByOYojmz2ncmv+QaWxtbZpXnrmRYJW6+87Z3nU9UTkwSAAAACUhk24spUhR83LPxIAqI+a1lyIm3tLVzoqqVjsIjmsf0AAAACFXqjPYB+JpOfrvosUYW/Y+g6aIp5y5KJdCC6N0Cwp8R7Yb3AGbeE/Fp62OmoMdlba8fxuP/sFEGxhSpdPUNux</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -80,7 +80,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADjIWWBMZPPuWgreHjrzS7lDiMPBKwX9mDLTky1REyqCgAAAAAOgAAAAAIAACAAAAB9HXi4YuTAwb5Mx8pPK3hwXSls0GX5ydXeXBz6EY4vxSAAAAA464ttVnYDwpRTWzBfKJAmSjs6YwKIzyzLSV+xt9QSM0AAAABLgdoiKV9yzk2cvU8b376Ch9iMhvW/R+TI9co8W5vdoGrXOK2zBvaeLPkgzb4TYFiye5OvSxXbTRBW2ZMgp0dC</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAALc+TJPR4ngTZSSZ1mBRocmiKKPR3Klq/WOrAh3vmjLwAAAAAOgAAAAAIAACAAAADbB9u8YuQRUd1gUVnbI+KvwHzaqTjNTdOg7zZhp6iGmyAAAABoLtuOjDNo2ShWksHP5BywKsP09zVYyDP7dE8/2rVa1EAAAABklFCNe7R8LKBLseJdFly3XSy7GbJzb1+6a5Ym2YtfG+BapOFlDY928io64Xb/v+tomp921G3B+Op41KYyV797</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -38298,7 +38298,7 @@ left join db_pronabec.dbo.General Cond on Cond.Id_General = su.Estado_Subvencion
 left join db_pronabec.dbo.General Situ on Situ.Id_General = su.Observacion_Estado and Situ.Tipo_Tabla = 61
 left join db_pronabec.dbo.General gen2 on gen2.Id_Ubicacion=pos.Id_Motivo_Ret_Beca and gen2.Tipo_Tabla=61
 left join db_pronabec.dbo.General Situ2 on Situ2.Id_Ubicacion=pos.Id_Motivo_Obs and Situ2.Tipo_Tabla=61
---where pos.Id_Postulacion = 872914 xx
+--where pos.Id_Postulacion = 872914 francisco
 --where isnull(cast(substring (mm.V_CONFIGURACION, CHARINDEX('toriaId',mm.V_CONFIGURACION)+9,3)as Int),0) = 327 AND par.I_POSTULACION_ID = 912938</property>
                 <property
                   dataType="System.String"
