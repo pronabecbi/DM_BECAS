@@ -2,18 +2,18 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Datamart Becas</Name>
-    <LastWriteTime>2026-04-24T20:50:40.5226579Z</LastWriteTime>
+    <LastWriteTime>2026-04-27T14:07:23.5998347Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Datamart_Becas.dtsx</Name>
-      <LastWriteTime>2026-04-26T01:24:14.8259935Z</LastWriteTime>
+      <LastWriteTime>2026-04-27T14:45:25.0021312Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Carga_Hist.dtsx</Name>
-      <LastWriteTime>2026-04-07T15:47:24Z</LastWriteTime>
+      <LastWriteTime>2026-04-27T14:07:23.5998347Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

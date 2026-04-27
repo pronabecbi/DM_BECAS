@@ -11,8 +11,8 @@
   DTS:LocaleID="10250"
   DTS:ObjectName="Datamart_Becas"
   DTS:PackageType="5"
-  DTS:VersionBuild="544"
-  DTS:VersionGUID="{B7725634-6C95-404D-91B7-67B703618F0D}">
+  DTS:VersionBuild="545"
+  DTS:VersionGUID="{DA8F1188-9025-4CFB-BF77-42CB057B6FDD}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACPfciNSj4anD+swCMSVMjRvfZNKam/t57h/Pex/5/UPQAAAAAOgAAAAAIAACAAAACyDrsxwBsB/OJGlIJq7RMqLKFb8w+x4VXVKLegsiFPbCAAAABmQDvY6VDBL8qVmPTFDJJrm/sIWEIEEzJzP1Y5ptb4OEAAAAA8mdIyYuG24mVeWOTSreZOFloXqR8VU/jQ8+Q/r6XiK17PDWkYt8kxbfKlrdyPpCVMtPgd9Kw48KYTLp7ygw7O</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADTpu5mo7s5DxDzVJdZ112QnX66Ow15fg6A5Er09TzGqQAAAAAOgAAAAAIAACAAAACF48xF+sHv/1Y4usALl7VswQlL3DXf6F+A+ICpEP4NYiAAAABzeIpG9Cj52FJGMY1pTA81cieFTY1Kh5F2TFWq7cbpqUAAAABbbXNN8UCjQw8IaKPAzjNiqmUdN4O627N2BbZt03axeYYGw4jHt4oO38INZf139Kzf8ooqs03jeWbgp1rxAu8p</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABuTLUeZz2k3AICoTKvPic5U5sfNzKjG0h3XFqyvkTjAQAAAAAOgAAAAAIAACAAAADb/mZfmQc/kauUY8MkZlK5V3+85i0hM0A2pr/8/zwkNCAAAABJyKrOi+8yORPCkhHofhCHTox8tXO2jL+Qb+4TPVdc5UAAAADWnRQBK++9te5WeDq1segTatJlKZmDd71JIN08ZHz8Rb9qYfJWei2UbBw5WxmPw9joKaM6OZE4fXAWVImrs6/T</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADZGr64Qk3SyBhjLNslH5rjE5Nt6l8i8MYriF24IHzJNgAAAAAOgAAAAAIAACAAAAB4h/J4cUxgIGgt0kl9kCMMUAq2HklZu/lY1OXC0/tOsCAAAAAXzzV+zD071Lhe8a2VpRgaFduiC1zeq1xPZaAP/QmvLkAAAACUKO21OjXHguViuqDqJcgxwgdl25L22lhGqJzf8seYAcsYNUcO5UB0ZhxKavXaV3mOC+/cAgqDzuNvqIrOd9GO</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACGo3awzoYyxzGY8Bd171d2mUFpMyJWFJPXuoO7pkxZdAAAAAAOgAAAAAIAACAAAACFh4hg1m/jvb07OigAX0wclwyU7E4Xs/LsYP1izRbbCyAAAACamkBFy5ANiSqPDqk3DrMq4LqTNf8r7yXYR25JMAiWoUAAAABcvssIBsaTZw/jWygztBV6UuaRqM49bDVhVNv0maTODyBT79WrKdqRWD8NwGcrrNMax+GbyLx15KVFE95TOg3g</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABqPepsaQh0b0b2hURz2zYmR4iximLtIojh2ikWBra6lgAAAAAOgAAAAAIAACAAAAAojLF//0feHlVcMYJeaTdD+CAaXy+1A3dpXFMb5nW/iyAAAABp3O+U0sp3aW/vVzeWkF16uyQISgzIQ5cm7adyanAKlEAAAADYsykVTLFvhw9zIOThFjWZ6eDH5Kwwc8eH8Ewiw2K/qAhnlhCPNNYUtUWzgpfjiKwRrsUqbBwGbD5IKfgsXCXG</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -80,7 +80,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB9H7VwIgpe8N5FCVzSwIqutwk3TG7F3DbaOkeeNyLrbQAAAAAOgAAAAAIAACAAAADbfxqK1E6gdfbY+Z2JvWNR1hxc4+uxdYjr+VeQ40bcPCAAAABWTCOuLcp3mqZhSCtAX7LBwHfrBmMT/XoOPdKZRt5fzkAAAAAPnAgkTRUUKNvsdRu8MGQXG/sRUG7bpcQrgTdFivepehA/XeFW9iyaIIcfsEcEbikM/ko6eu0qxZPKbSR2ij7x</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlGZXJw9uhkijHk9ZdKZ+DwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB6MR97HghOn1GyHJJTGCYoJ4oP7LQ03BkBU3qRIKMteQAAAAAOgAAAAAIAACAAAAC6mCWYorAMX/9tGTlkutYKX9nGLOjCErHrzYz7/pkh8iAAAABnxz3KnCL32Fn7gXvHLmuaTjVMXub5EWJo8EYD4tZl8UAAAAA8I0zPwMnBDSjV0I4b2MwlfawLXd2NwUpRX/AIVbttfYkm7PQcIOgz3FJWyQeIJHBN+OSnwtbiKisDT+ErU12B</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -95,7 +95,7 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Actualiza_Est_Beca_y_Est_Adj"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -111,7 +111,7 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Actualiza_Indicadores"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -128,7 +128,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Actualiza_ods_Dim_Persona_Nro_Pso"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -3280,7 +3280,7 @@ from estados.Estado_Situacional</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Cambio_ECS"
-          DTS:ThreadHint="9">
+          DTS:ThreadHint="5">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -3296,7 +3296,7 @@ from estados.Estado_Situacional</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Cambio_ISC"
-          DTS:ThreadHint="8">
+          DTS:ThreadHint="6">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -3312,7 +3312,7 @@ from estados.Estado_Situacional</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Cambio_ECS"
-          DTS:ThreadHint="9">
+          DTS:ThreadHint="5">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -3328,7 +3328,7 @@ from estados.Estado_Situacional</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Cambio_ISC"
-          DTS:ThreadHint="8">
+          DTS:ThreadHint="6">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -3729,7 +3729,7 @@ from sa.Dim_Carrera</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Carga_ods_Dim_Carrera_Default"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -4069,7 +4069,7 @@ on ne.Id_NivelEducativo = ca.Id_NivelEducativo</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Carrera"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -4086,7 +4086,7 @@ on ne.Id_NivelEducativo = ca.Id_NivelEducativo</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Carrera"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -7154,7 +7154,7 @@ where acaren.I_ESTUDIO_ID not in(313111,978608) -- registro duplicado en origen<
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Colegio_Estudio"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="10">
+          DTS:ThreadHint="7">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -7170,7 +7170,7 @@ where acaren.I_ESTUDIO_ID not in(313111,978608) -- registro duplicado en origen<
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Colegio_COAR"
-          DTS:ThreadHint="10">
+          DTS:ThreadHint="7">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -7187,7 +7187,7 @@ where acaren.I_ESTUDIO_ID not in(313111,978608) -- registro duplicado en origen<
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Colegio_Estudio"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="10">
+          DTS:ThreadHint="7">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -7265,7 +7265,7 @@ where acaren.I_ESTUDIO_ID not in(313111,978608) -- registro duplicado en origen<
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Actualiza_Id_Discapacitados"
-          DTS:ThreadHint="6">
+          DTS:ThreadHint="10">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13669,7 +13669,7 @@ and I_ENUMERADO_ID &lt;&gt; 180000</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Condicion_Priori"
-          DTS:ThreadHint="7">
+          DTS:ThreadHint="11">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13685,7 +13685,7 @@ and I_ENUMERADO_ID &lt;&gt; 180000</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Condicion_Priorizable"
-          DTS:ThreadHint="4">
+          DTS:ThreadHint="8">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13701,7 +13701,7 @@ and I_ENUMERADO_ID &lt;&gt; 180000</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Condicion_Bomb"
-          DTS:ThreadHint="5">
+          DTS:ThreadHint="8">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13718,7 +13718,7 @@ and I_ENUMERADO_ID &lt;&gt; 180000</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Condicion_FFAA"
-          DTS:ThreadHint="4">
+          DTS:ThreadHint="9">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13734,7 +13734,7 @@ and I_ENUMERADO_ID &lt;&gt; 180000</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Condicion_Tipos_Discapacidad"
-          DTS:ThreadHint="6">
+          DTS:ThreadHint="10">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -15026,7 +15026,7 @@ order by 1 desc</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Convocatoria"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="11">
+          DTS:ThreadHint="12">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -15043,7 +15043,7 @@ order by 1 desc</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Convocatoria"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="11">
+          DTS:ThreadHint="12">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -15499,7 +15499,7 @@ from sa.Dim_Institucion</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Carga_ods_Dim_Institucion_Default"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="12">
+          DTS:ThreadHint="13">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -15919,7 +15919,7 @@ inner join Tipo_Institucion ti on ti.Id_TipoInstitucion = ies.Id_TipoInstitucion
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Institucion"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="12">
+          DTS:ThreadHint="13">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -15936,7 +15936,7 @@ inner join Tipo_Institucion ti on ti.Id_TipoInstitucion = ies.Id_TipoInstitucion
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Institucion"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="12">
+          DTS:ThreadHint="13">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -17780,7 +17780,7 @@ left join config.enumerado reg on reg.I_ENUMERADO_ID = cardt.I_REGIMEN_ESTUDIO</
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Institucion_Origen"
-          DTS:ThreadHint="13">
+          DTS:ThreadHint="14">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -17796,7 +17796,7 @@ left join config.enumerado reg on reg.I_ENUMERADO_ID = cardt.I_REGIMEN_ESTUDIO</
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Institucion_Origen"
-          DTS:ThreadHint="13">
+          DTS:ThreadHint="14">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -18340,7 +18340,7 @@ from sa.Dim_Institucion_Sede</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Carga_ods_Dim_Institucion_Sede_Default"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="14">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -18799,7 +18799,7 @@ LEFT JOIN Institucion ies on ies.Id_InstitucionEducativa = ise.Id_Institucion</p
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Institucion_Sede"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="14">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -18816,7 +18816,7 @@ LEFT JOIN Institucion ies on ies.Id_InstitucionEducativa = ise.Id_Institucion</p
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Institucion_Sede"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="14">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -22167,7 +22167,7 @@ Id_Persona in
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Persona"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -22184,7 +22184,7 @@ Id_Persona in
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Persona"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25723,7 +25723,7 @@ inner join proceso.participante_claim pob_n on pob_n.I_PARTICIPANTE_ID = p.I_PAR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Depura_sa_Dim_Comunidades"
-          DTS:ThreadHint="16">
+          DTS:ThreadHint="17">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25739,7 +25739,7 @@ inner join proceso.participante_claim pob_n on pob_n.I_PARTICIPANTE_ID = p.I_PAR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Depura_sa_Dim_Representante_Comunidades"
-          DTS:ThreadHint="18">
+          DTS:ThreadHint="19">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25756,7 +25756,7 @@ inner join proceso.participante_claim pob_n on pob_n.I_PARTICIPANTE_ID = p.I_PAR
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Procedencia"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="16">
+          DTS:ThreadHint="17">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25772,7 +25772,7 @@ inner join proceso.participante_claim pob_n on pob_n.I_PARTICIPANTE_ID = p.I_PAR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Representante_Comunidades"
-          DTS:ThreadHint="18">
+          DTS:ThreadHint="19">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25788,7 +25788,7 @@ inner join proceso.participante_claim pob_n on pob_n.I_PARTICIPANTE_ID = p.I_PAR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Procedencia_Comunidades"
-          DTS:ThreadHint="16">
+          DTS:ThreadHint="17">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25804,7 +25804,7 @@ inner join proceso.participante_claim pob_n on pob_n.I_PARTICIPANTE_ID = p.I_PAR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Procendencia_Categoria"
-          DTS:ThreadHint="17">
+          DTS:ThreadHint="18">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25820,7 +25820,7 @@ inner join proceso.participante_claim pob_n on pob_n.I_PARTICIPANTE_ID = p.I_PAR
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Representante_Comunidades"
-          DTS:ThreadHint="18">
+          DTS:ThreadHint="19">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -26526,7 +26526,7 @@ where V_CLAIM_NOMBRE = 'CNA_TIPO_DIRECCION'</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Sub_Modalidad"
-          DTS:ThreadHint="19">
+          DTS:ThreadHint="16">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -26542,7 +26542,7 @@ where V_CLAIM_NOMBRE = 'CNA_TIPO_DIRECCION'</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_sa_Dim_Sub_Modalidad"
-          DTS:ThreadHint="19">
+          DTS:ThreadHint="16">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -26597,7 +26597,7 @@ where V_CLAIM_NOMBRE = 'CNA_TIPO_DIRECCION'</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Carga_ods_Dim_Tiempo"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="21">
+          DTS:ThreadHint="20">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -26614,7 +26614,7 @@ where V_CLAIM_NOMBRE = 'CNA_TIPO_DIRECCION'</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpia_ods_Dim_Tiempo"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="21">
+          DTS:ThreadHint="20">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -38298,7 +38298,7 @@ left join db_pronabec.dbo.General Cond on Cond.Id_General = su.Estado_Subvencion
 left join db_pronabec.dbo.General Situ on Situ.Id_General = su.Observacion_Estado and Situ.Tipo_Tabla = 61
 left join db_pronabec.dbo.General gen2 on gen2.Id_Ubicacion=pos.Id_Motivo_Ret_Beca and gen2.Tipo_Tabla=61
 left join db_pronabec.dbo.General Situ2 on Situ2.Id_Ubicacion=pos.Id_Motivo_Obs and Situ2.Tipo_Tabla=61
---where pos.Id_Postulacion = 872914
+--where pos.Id_Postulacion = 872914 x
 --where isnull(cast(substring (mm.V_CONFIGURACION, CHARINDEX('toriaId',mm.V_CONFIGURACION)+9,3)as Int),0) = 327 AND par.I_POSTULACION_ID = 912938</property>
                 <property
                   dataType="System.String"
@@ -41165,7 +41165,7 @@ where Id_Condicion = 2714</property>
       DTS:LocaleID="-1"
       DTS:ObjectName="Limpia_ods_Dim_Inscripcion"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="20">
+      DTS:ThreadHint="21">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -41182,7 +41182,7 @@ where Id_Condicion = 2714</property>
       DTS:LocaleID="-1"
       DTS:ObjectName="Limpia_ods_Fact_Postulaciones"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -41199,7 +41199,7 @@ where Id_Condicion = 2714</property>
       DTS:LocaleID="-1"
       DTS:ObjectName="Limpia_sa_Dim_Inscripcion"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="11">
+      DTS:ThreadHint="12">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -41215,7 +41215,7 @@ where Id_Condicion = 2714</property>
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Limpia_sa_Fact_Becas_Revertidas"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -41232,7 +41232,7 @@ where Id_Condicion = 2714</property>
       DTS:LocaleID="-1"
       DTS:ObjectName="Limpia_sa_Fact_Postulaciones"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2017; © 2017 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -41725,7 +41725,9 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -41759,7 +41761,9 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -41793,7 +41797,9 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -41827,7 +41833,9 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <ContainerLayout
@@ -42900,7 +42908,9 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -42934,7 +42944,9 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -42962,7 +42974,9 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -42996,7 +43010,9 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <ContainerLayout
@@ -48769,7 +48785,7 @@ where Id_Condicion = 2714</property>
     design-time-name="Package\Carga_sa_Fact_Postulaciones_Esq_Ant">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="268,42"
           Id="Package\Carga_sa_Fact_Postulaciones_Esq_Ant\Origen Postulaciones Esq Ant Transac"
@@ -48809,9 +48825,7 @@ where Id_Condicion = 2714</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
